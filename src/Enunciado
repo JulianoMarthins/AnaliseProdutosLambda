@@ -1,0 +1,7 @@
+
+        Fazer um programa para ler um conjunto de produtos a partir de um arquivo em formato .CSV (Suponha que exista
+    pelo menos um produto neste arquivo).
+
+        Em seguida mostrar o preço médio dos produtos. Depois, mostrar os nomes em ordem decrescente dos produtos
+    que possuam preço inferior ao preço médio.
+
